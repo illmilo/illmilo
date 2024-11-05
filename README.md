@@ -11,9 +11,9 @@ i'm into:
 C++, Python, Dart, Git, HMTL+CSS, QT, Pandas, Flutter, lxml, beautifulsoup4, Unity 3D, SFML.
 
 ### Experience
-Date|Position|Company|Duties|Tech Stack
+Duration|Position|Company|Duties|Tech Stack
 -|-|-|-|-
-22nd, March, 2023 - 22nd, June, 2023|Software Dev Intern|"Linux Security" SPE LLC.|Microservices development, web scraping|Python, beautifulsoup4
+3 months|Software Dev Intern|"Linux Security" SPE LLC.|Microservices development, web scraping|Python, beautifulsoup4
 
 ### Open-Source & Contribs
 Project|Desc|Tech Stack
