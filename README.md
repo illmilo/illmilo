@@ -19,6 +19,7 @@ Duration|Position|Company|Duties|Tech Stack
 Project|Desc|Tech Stack
 -|-|-
 [money_transfer](https://github.com/Ezekiel-Gadzama/money_transfer)|App for quick international money wiring|Dart, Flutter
+[img2ansi](https://github.com/illmilo/img2ansi)|Library for creating ANSI+ art from images|C, [stb](https://github.com/nothings/stb), [ANSI🔥Art Renderer](https://github.com/mafik/ansi-art)
 
 ### Contact Me
-✈ [Telegram](https://t.me/illmilo)   |   ✉️ [Gmail](mailto:illfqm@gmail.com)
+✈ [Telegram](https://t.me/illmilo)   |   ✉️ [Gmail](mailto:illfqm@gmail.com)   |   +7 (995) 483-04-84
