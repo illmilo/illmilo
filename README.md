@@ -13,7 +13,7 @@ C++, Python, Dart, Git, HMTL+CSS, Qt, Pandas, Selenium, Flutter, lxml, beautiful
 ### Experience
 Duration|Position|Company|Duties|Tech Stack
 -|-|-|-|-
-3 months|Software Dev Intern|"Linux Security" SPE LLC.|Microservices development, web scraping|Python, beautifulsoup4
+3 months|Software Dev Intern|"Linux Security" SPE LLC.|Microservices development, web scraping|Python, beautifulsoup4, Selenium
 
 ### Contact Me
 ✈ [Telegram](https://t.me/illmilo)   |   ✉️ [Gmail](mailto:illfqm@gmail.com)   |   +7 (995) 483-04-84
