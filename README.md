@@ -1,14 +1,9 @@
-### About Me
-👋🏻 hey there, you can call me *Milo*.\
-i'm into:\
-[👾] **software development** — desktop & android apps;\
-[🎲] **game development** — 3d & 2d desktop games.
+👾 | **softdev, gamedev**
+C++|Dart|Python
+-|-|-
+Qt<br>OpenCV<br>lxml|Flutter|Selenium<br>beautifulsoup4<br>Pygame<br>Django<br>Flask
 
-### Tech Stack
-- C++, Python, Java, Dart
-- Qt, OpenCV, Flutter, Selenium, lxml, beautifulsoup4, matplotlib, Pandas
-- Git, HTML+CSS, Docker, MangoDB
+(_Additionally_) Git, HTML, JS, Docker, MongoDB, SQL, bash
 
-### Contact Me
-✈ [Telegram](https://t.me/illmilo)   |   ✉️ [Gmail](mailto:illfqm@gmail.com)   |   +7 (995) 483-04-84\
-[🌕] _i view incoming job requests_
+_Call me maybe?_
+✈ [Telegram](https://t.me/illmilo)   |   ✉️ [Gmail](mailto:illfqm@gmail.com)  
