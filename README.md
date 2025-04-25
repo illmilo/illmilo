@@ -1,11 +1,12 @@
-👾 | **softdev, gamedev**
-C++|Dart|Python
--|-|-
-Qt<br>OpenCV<br>lxml|Flutter|Selenium<br>beautifulsoup4<br>Pygame<br>Django<br>Flask
+\__ <img src="https://cdn-icons-png.freepik.com/512/11676/11676295.png" width=23px> \_____  <img src="https://cdn-icons-png.flaticon.com/512/5847/5847519.png" width=19px> \__
 
-Git, HTML, JS, Docker, SQL & noSQL, bash
+\[softdev] \[gamedev]
 
-🎓 | Innopolis University, BA 2024-2028, Computer Science and Engineering
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=7%>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" width=7%>|<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945099.png?f=webp&w=256" width=8%>|+|
+-|-|-|-
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width=15%> <img src="https://viallyhardi.wordpress.com/wp-content/uploads/2012/06/logo.png" width=15%> <img src="https://avatars.githubusercontent.com/u/3170529?s=280&v=4" width=15%>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1024px-Flutter_logo.svg.png" width=15%>| <img src="https://img.icons8.com/?size=512&id=38553&format=png" width=20%> <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" width=25%> <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" width=20%><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width=20%>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width=3%> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width=3%> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width=3%> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width=3%> <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" width=3%> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width=3%> <img src="https://www.svgrepo.com/show/354099/mysql.svg" width=3%> <img src="https://img.icons8.com/?size=160&id=50ZQHdJTmPqw&format=png" width=3%>
+
+🎓 → <img src="https://apply.innopolis.university/upload/landing/d68/x7lrkt7s7nqg7hayv9v25km4isqim4g2/Group_277132946@1x.png" width=5%> _\[BA 2024-2028]_ __Computer Science and Engineering__
 
 _Call me maybe?_
-✈ [Telegram](https://t.me/illmilo)   |   ✉️ [Gmail](mailto:illfqm@gmail.com)  
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" width=15px> [Telegram](https://t.me/illmilo)   |   ✉️ [Gmail](mailto:illfqm@gmail.com)  
