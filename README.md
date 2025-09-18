@@ -1,3 +1,20 @@
+## About Me
+### Hey there! 👋 
+
+Hi! My name is Mila and I am a **full-stack 
+web developer**.
+
+When I'm bored, I expand my horizons in the fields of 
+mobile development, game development, and software development.
+Just really testing the waters of different options in IT sphere.
+
+Besides nerding out and coding, I spend my free time actively with 
+friends and family: bowling, cycling, swimming, and doing other 
+simple activities.
+
+I am open to new acquaintances, so
+feel free to reach out 🤝
+
 ## My Tech Stack
 
 ### Languages
