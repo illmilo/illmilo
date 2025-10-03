@@ -5,11 +5,8 @@ hey) my name's Mila and i'm a **fullstack web developer** with **1+ years of exp
 
 life goals? family, work-life balance, financial stability, and digital nomadism.
 
-backend | Django & MySQL/SQLite/PostgreSQL
--|-
-
-frontend | HTML/CSS/JS & React.js
--|-
+- **\[backend\]** Django & MySQL/SQLite/PostgreSQL
+- **\[frontend\]** HTML/CSS/JS & React.js
 
 if you have any collaboration suggestions, feel free to reach out. i don't bite. pinky promise.
 
